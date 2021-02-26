@@ -10,7 +10,8 @@
 # Настройка 
 
 1. В файле config.py Меняем значения "CLIENT_ID" И "CLIENT_NAME"
-2. После чего запускаем файл "Start.bat"
+2. После открываем консоль, ctr + r, в открывшемся окне пишем pip install pypresence, и жмём Enter
+3. После чего запускаем файл "Start.bat"
 
 # FAQ
 
